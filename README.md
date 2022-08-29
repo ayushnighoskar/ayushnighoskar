@@ -30,7 +30,7 @@
 
 You can check work done by me in my profile or you can visit my portfolio website.
 
-[My Portfolio Website !](https://ayushn.netlify.app/ target="_blank")
+[My Portfolio Website !](https://ayushn.netlify.app/)
 
 <br/>
 
