@@ -5,8 +5,6 @@
 - 👯 I’m always looking forward to collaborate with developers.
 - 💬 Ask me about **Web Development ,DBMS, SQL** 
 
-![](https://komarev.com/ghpvc/?username=ayushnighoskar&color=blueviolet&&style=for-the-badge)
-
 <h3 align="left">Connect with me :</h3>
 <div align="left">
   <a href="https://in.linkedin.com/in/ayush-nighoskar"target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -40,7 +38,7 @@ You can check work done by me on my portfolio website.
 [My Portfolio Website !](https://ayushn.netlify.app/)
 
 <br/>
-
+![](https://komarev.com/ghpvc/?username=ayushnighoskar&color=blueviolet&&style=for-the-badge)
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ayushnighoskar&show_icons=true&theme=dark&locale=en" alt="ayushnighoskar" /></td>
