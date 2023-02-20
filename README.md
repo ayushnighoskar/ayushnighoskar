@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m always looking forward to collaborate with developers.
-- 💬 Ask me about **Web Development ,DBMS, SQL, ** 
+- 💬 Ask me about ** Web Development ,DBMS, SQL, ** 
 
 
 
