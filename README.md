@@ -37,8 +37,10 @@ You can check work done by me on my portfolio website.
 
 [My Portfolio Website !](https://ayushn.netlify.app/)
 
-<br/>
 ![](https://komarev.com/ghpvc/?username=ayushnighoskar&color=blueviolet&&style=for-the-badge)
+
+<br/>
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ayushnighoskar&show_icons=true&theme=dark&locale=en" alt="ayushnighoskar" /></td>
