@@ -5,7 +5,7 @@
 - 👯 I’m always looking forward to collaborate with developers.
 - 💬 Ask me about **Web Development ,DBMS, SQL** 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ayushnighoskar&color=blueviolet&&style=for-the-badge)
 
 <h3 align="left">Connect with me :</h3>
 <div align="left">
