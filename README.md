@@ -50,5 +50,5 @@ You can check work done by me on my portfolio website.
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushnighoskar&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushnighoskar&theme=dark" alt="ayushnighoskar" /></p>
   </div>
