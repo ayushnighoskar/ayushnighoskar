@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://ayushn.netlify.app/" target="_blank"> Ayush Nighoskar </a></h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
+- 🚀 Learning Never Stops
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m always looking forward to collaborate with developers.
 - 💬 Ask me about **Web Development ,DBMS, SQL** 
