@@ -12,6 +12,11 @@
   <a href="mailto:ayunighoskar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
+<h3 align="left">Subscribe to my Newsletter</h3>
+<div align="left">
+  <a href="https://in.linkedin.com/in/ayush-nighoskar"target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
 <a href="https://app.daily.dev/ayushn"><img align="right" src="https://api.daily.dev/devcards/cb0446798e954f20b36d18dc92c8aef2.png?r=h00" width="400" alt="Ayush's Dev Card"/></a>
 
 <h3 align="left">Languages:</h3>
