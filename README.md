@@ -12,8 +12,7 @@
   <a href="mailto:ayunighoskar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-### 📕 Latest Blog Posts
-
+<h3 align="left">📕 Latest Blog Posts :</h3>
 <!-- HASHNODE_BLOG:START -->
 - [JS](link)
 - []()
