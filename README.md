@@ -13,6 +13,7 @@
 </div>
 
 <h3 align="left">📕 Latest Blog Posts :</h3>
+
 <!-- HASHNODE_BLOG:START -->
 - [JS](link)
 - []()
