@@ -4,7 +4,7 @@
 - 🚀 Learning Never Stops.
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m always looking forward to collaborate with developers.
-- 💬 Ask me about **Web Development ,DBMS, SQL** 
+- 💬 Ask me about **Web Development,DBMS,SQL** 
 
 <h3 align="left">Connect with me :</h3>
 <div align="left">
