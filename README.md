@@ -14,21 +14,7 @@
 
 <a href="https://app.daily.dev/ayushn"><img align="right" src="https://api.daily.dev/devcards/cb0446798e954f20b36d18dc92c8aef2.png?r=h00" width="400" alt="Ayush's Dev Card"/></a>
 
-<h3 align="left">📕 Latest Blog Posts :</h3>
-
-- [JS](link)
-- []()
-- []()
-- []()
-
-➡️ [more blog posts...]()
-
-<h3 align="left">Subscribe to my Newsletter :</h3>
-<div align="left">
-  <a href="https://ayushn.hashnode.dev/newsletter"target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-</div>
-
-<h3 align="left">Languages:</h3>
+<h3 align="left">Skills :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -46,6 +32,20 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+
+<h3 align="left">📕 Latest Blog Posts :</h3>
+
+- [JS](link)
+- []()
+- []()
+- []()
+
+➡️ [more blog posts...]()
+
+<h3 align="left">Subscribe to my Newsletter :</h3>
+<div align="left">
+  <a href="https://ayushn.hashnode.dev/newsletter"target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </div>
 
 <h3 align="left">Hosting :</h3>
