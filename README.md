@@ -34,14 +34,12 @@
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
+<!-- BLOG-POST-LIST:START -->
 <h3 align="left">📕 Latest Blog Posts :</h3>
 
-- [JS](link)
-- []()
-- []()
-- []()
 
 ➡️ [more blog posts...]()
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Subscribe to my Newsletter :</h3>
 <div align="left">
