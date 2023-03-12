@@ -43,7 +43,6 @@
 - [CSS Positions](https://ayushn.hashnode.dev/css-positions)
 - [Learn about CSS Selectors](https://ayushn.hashnode.dev/learn-about-css-selectors)
 - [Flexbox Cheat-Sheet](https://ayushn.hashnode.dev/flexbox-cheat-sheet)
-</div>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Subscribe to my Newsletter :</h3>
