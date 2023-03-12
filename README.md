@@ -35,10 +35,11 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-<h3 align="left">📕 Latest Blog Posts :</h3>
-
-
-➡️ [more blog posts...]()
+- [JavaScript Interview Topic : Scope](https://ayushn.hashnode.dev/javascript-interview-topic-scope)
+- [Tailwind CSS for Beginners](https://ayushn.hashnode.dev/tailwind-css-for-beginners)
+- [CSS Positions](https://ayushn.hashnode.dev/css-positions)
+- [Learn about CSS Selectors](https://ayushn.hashnode.dev/learn-about-css-selectors)
+- [Flexbox Cheat-Sheet](https://ayushn.hashnode.dev/flexbox-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Subscribe to my Newsletter :</h3>
