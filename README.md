@@ -34,6 +34,7 @@
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
+<h3 align="left">Blog :</h3>
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Interview Topic : Scope](https://ayushn.hashnode.dev/javascript-interview-topic-scope)
 - [Tailwind CSS for Beginners](https://ayushn.hashnode.dev/tailwind-css-for-beginners)
