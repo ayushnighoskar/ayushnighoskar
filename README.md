@@ -34,9 +34,8 @@
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-<h3 align="left">Blog :</h3>
+<h3 align="left">📕 Latest Blog Posts :</h3>
 <div>
-  
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript Interview Topic : Scope](https://ayushn.hashnode.dev/javascript-interview-topic-scope)
 - [Tailwind CSS for Beginners](https://ayushn.hashnode.dev/tailwind-css-for-beginners)
@@ -44,6 +43,7 @@
 - [Learn about CSS Selectors](https://ayushn.hashnode.dev/learn-about-css-selectors)
 - [Flexbox Cheat-Sheet](https://ayushn.hashnode.dev/flexbox-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://ayushn.hashnode.dev/)
 
 <h3 align="left">Subscribe to my Newsletter :</h3>
 <div align="left">
