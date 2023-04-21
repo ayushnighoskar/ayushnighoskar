@@ -10,11 +10,10 @@
 <div align="left">
   <a href="https://in.linkedin.com/in/ayush-nighoskar"target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/AyushNighoskar"target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+   <a href="https://www.hackerrank.com/ayunighoskar"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://leetcode.com/Ayush_11"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
   <a href="mailto:ayunighoskar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/ayunighoskar"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://leetcode.com/Ayush_11/"><img alt="Leetcode" src="(https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-  
-</div>
+ </div>
 
 <a href="https://app.daily.dev/ayushn"><img align="right" src="https://api.daily.dev/devcards/cb0446798e954f20b36d18dc92c8aef2.png?r=h00" width="400" alt="Ayush's Dev Card"/></a>
 
