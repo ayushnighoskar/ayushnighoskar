@@ -20,6 +20,7 @@
   
 <a href="https://app.daily.dev/ayushn"><img align="right" src="https://api.daily.dev/devcards/cb0446798e954f20b36d18dc92c8aef2.png?r=h00" width="400" alt="Ayush's Dev Card"/></a>
 
+
 <h3 align="left"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Skills :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
