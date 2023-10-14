@@ -47,11 +47,11 @@
 <div>
   
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About CDAC: The Centre for Development of Advanced Computing](https://ayushn.hashnode.dev/everything-you-need-to-know-about-cdac-the-centre-for-development-of-advanced-computing)
 - [JavaScript Interview Topic : Scope](https://ayushn.hashnode.dev/javascript-interview-topic-scope)
 - [Tailwind CSS for Beginners](https://ayushn.hashnode.dev/tailwind-css-for-beginners)
 - [CSS Positions](https://ayushn.hashnode.dev/css-positions)
 - [Learn about CSS Selectors](https://ayushn.hashnode.dev/learn-about-css-selectors)
-- [Flexbox Cheat-Sheet](https://ayushn.hashnode.dev/flexbox-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ [more blog posts...](https://ayushn.hashnode.dev/)
