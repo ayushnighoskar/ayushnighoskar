@@ -47,11 +47,11 @@
 <div>
   
 <!-- BLOG-POST-LIST:START -->
+- [HTML Important Concepts -&gt; Part-1](https://ayushn.hashnode.dev/html-important-concepts-part-1)
 - [Function with parameter and without parameter](https://ayushn.hashnode.dev/function-with-parameter-and-without-parameter)
 - [Difference between ES-5 and ES-6 and &lpar;Let,Var and Const&rpar;](https://ayushn.hashnode.dev/difference-between-es-5-and-es-6-and-letvar-and-const)
 - [Everything You Need to Know About CDAC: The Centre for Development of Advanced Computing](https://ayushn.hashnode.dev/everything-you-need-to-know-about-cdac-the-centre-for-development-of-advanced-computing)
 - [JavaScript Interview Topic : Scope](https://ayushn.hashnode.dev/javascript-interview-topic-scope)
-- [Tailwind CSS for Beginners](https://ayushn.hashnode.dev/tailwind-css-for-beginners)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ [more blog posts...](https://ayushn.hashnode.dev/)
