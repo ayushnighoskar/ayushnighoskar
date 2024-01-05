@@ -47,11 +47,11 @@
 <div>
   
 <!-- BLOG-POST-LIST:START -->
+- [Mastering HTML Tags: Tables, Forms, and Lists](https://ayushn.hashnode.dev/mastering-html-tags-tables-forms-and-lists)
 - [Exploring HTML Tags: details, summary, datalist, select, and URL Encoding](https://ayushn.hashnode.dev/exploring-html-tags-details-summary-datalist-select-and-url-encoding)
 - [Exploring HTML Tags: &lt;iframe&gt;, &lt;figure&gt;, &lt;span&gt;, &lt;progress&gt;, &lt;meter&gt;, &lt;figcaption&gt;](https://ayushn.hashnode.dev/exploring-html-tags-iframe-figure-span-progress-meter-figcaption)
 - [Function with parameter and without parameter](https://ayushn.hashnode.dev/function-with-parameter-and-without-parameter)
 - [Difference between ES-5 and ES-6 and &lpar;Let,Var and Const&rpar;](https://ayushn.hashnode.dev/difference-between-es-5-and-es-6-and-letvar-and-const)
-- [Everything You Need to Know About CDAC: The Centre for Development of Advanced Computing](https://ayushn.hashnode.dev/everything-you-need-to-know-about-cdac-the-centre-for-development-of-advanced-computing)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ [more blog posts...](https://ayushn.hashnode.dev/)
