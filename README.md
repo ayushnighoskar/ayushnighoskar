@@ -47,11 +47,11 @@
 <div>
   
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling HTML5 Features: Canvas vs SVG, Image Maps, Raster vs Vector Images, and Geolocation API](https://ayushn.hashnode.dev/unveiling-html5-features-canvas-vs-svg-image-maps-raster-vs-vector-images-and-geolocation-api)
 - [Mastering HTML Tags: Tables, Forms, and Lists](https://ayushn.hashnode.dev/mastering-html-tags-tables-forms-and-lists)
 - [Exploring HTML Tags: details, summary, datalist, select, and URL Encoding](https://ayushn.hashnode.dev/exploring-html-tags-details-summary-datalist-select-and-url-encoding)
 - [Exploring HTML Tags: &lt;iframe&gt;, &lt;figure&gt;, &lt;span&gt;, &lt;progress&gt;, &lt;meter&gt;, &lt;figcaption&gt;](https://ayushn.hashnode.dev/exploring-html-tags-iframe-figure-span-progress-meter-figcaption)
 - [Function with parameter and without parameter](https://ayushn.hashnode.dev/function-with-parameter-and-without-parameter)
-- [Difference between ES-5 and ES-6 and &lpar;Let,Var and Const&rpar;](https://ayushn.hashnode.dev/difference-between-es-5-and-es-6-and-letvar-and-const)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ [more blog posts...](https://ayushn.hashnode.dev/)
