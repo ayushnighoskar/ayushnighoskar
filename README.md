@@ -47,11 +47,11 @@
 <div>
   
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying HTML, HTML5, and XHTML: A Comparative Guide](https://ayushn.hashnode.dev/demystifying-html-html5-and-xhtml-a-comparative-guide)
 - [Exploring HTML Element Display: A Comprehensive Guide](https://ayushn.hashnode.dev/exploring-html-element-display-a-comprehensive-guide)
 - [Mastering HTML Element Positioning: A Comprehensive Guide](https://ayushn.hashnode.dev/mastering-html-element-positioning-a-comprehensive-guide)
 - [Mastering Web Development Essentials: Script Placement, HTML Indents, and HTML5 Manifest Files](https://ayushn.hashnode.dev/mastering-web-development-essentials-script-placement-html-indents-and-html5-manifest-files)
 - [Demystifying HTML Table Attributes: A Deep Dive into Cell Padding, Cell Spacing, Rowspan, Colspan, Display vs. Visibility](https://ayushn.hashnode.dev/demystifying-html-table-attributes-a-deep-dive-into-cell-padding-cell-spacing-rowspan-colspan-display-vs-visibility)
-- [Navigating the Depths of HTML: Unveiling Nested Web Pages, Layouts, Entities, and Semantics](https://ayushn.hashnode.dev/navigating-the-depths-of-html-unveiling-nested-web-pages-layouts-entities-and-semantics)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ [more blog posts...](https://ayushn.hashnode.dev/)
