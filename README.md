@@ -47,11 +47,11 @@
 <div>
   
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Units in CSS: Exploring the Difference Between VH and VW](https://ayushn.hashnode.dev/understanding-units-in-css-exploring-the-difference-between-vh-and-vw)
 - [Mastering CSS: Exploring Essential Concepts](https://ayushn.hashnode.dev/mastering-css-exploring-essential-concepts)
 - [Demystifying HTML, HTML5, and XHTML: A Comparative Guide](https://ayushn.hashnode.dev/demystifying-html-html5-and-xhtml-a-comparative-guide)
 - [Exploring HTML Element Display: A Comprehensive Guide](https://ayushn.hashnode.dev/exploring-html-element-display-a-comprehensive-guide)
 - [Mastering HTML Element Positioning: A Comprehensive Guide](https://ayushn.hashnode.dev/mastering-html-element-positioning-a-comprehensive-guide)
-- [Mastering Web Development Essentials: Script Placement, HTML Indents, and HTML5 Manifest Files](https://ayushn.hashnode.dev/mastering-web-development-essentials-script-placement-html-indents-and-html5-manifest-files)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ [more blog posts...](https://ayushn.hashnode.dev/)
