@@ -47,11 +47,11 @@
 <div>
   
 <!-- BLOG-POST-LIST:START -->
+- [Elevating CSS Mastery: Pseudo-Elements, CSS Sprites, and Display Magic](https://ayushn.hashnode.dev/elevating-css-mastery-pseudo-elements-css-sprites-and-display-magic)
 - [Demystifying CSS Layouts: Flexbox, Grid, and the @import Rule](https://ayushn.hashnode.dev/demystifying-css-layouts-flexbox-grid-and-the-import-rule)
 - [Mastering CSS Magic: Colors, Positioning, Overflow, and Transitions](https://ayushn.hashnode.dev/mastering-css-magic-colors-positioning-overflow-and-transitions)
 - [Unveiling the Power of CSS: Selectors, Float Properties, and Stylish Components](https://ayushn.hashnode.dev/unveiling-the-power-of-css-selectors-float-properties-and-stylish-components)
 - [Mastering CSS: A Comprehensive Guide to Frameworks, Versions, and Resets](https://ayushn.hashnode.dev/mastering-css-a-comprehensive-guide-to-frameworks-versions-and-resets)
-- [Understanding Units in CSS: Exploring the Difference Between VH and VW](https://ayushn.hashnode.dev/understanding-units-in-css-exploring-the-difference-between-vh-and-vw)
 <!-- BLOG-POST-LIST:END -->
   
 ➡️ [more blog posts...](https://ayushn.hashnode.dev/)
