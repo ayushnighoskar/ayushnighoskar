@@ -19,9 +19,6 @@
  <h3 align="left"><img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px"> My Coding Profiles :</h3> 
    <a href="https://www.hackerrank.com/ayunighoskar"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   <a href="https://leetcode.com/Ayush_11"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-  
-<a href="https://app.daily.dev/ayushn"><img align="right" src="https://api.daily.dev/devcards/cb0446798e954f20b36d18dc92c8aef2.png?r=h00" width="400" alt="Ayush's Dev Card"/></a>
-
 
 <h3 align="left"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Skills :</h3>
 <div align="left">
