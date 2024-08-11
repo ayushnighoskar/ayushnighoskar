@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m always looking forward to collaborate with developers.
 - I like to read Self-Help Books and listen to Podcast.
-- 💬 Ask me about **Web Development, DBMS, SQL** 
+- 💬 Ask me about **Web Development ** 
 
 <h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Connect with me :</h3>
 <div align="left">
