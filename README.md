@@ -42,21 +42,6 @@
 
 <h3 align="left">📕 Latest Blog Posts :</h3>
 <div>
-  
-<!-- BLOG-POST-LIST:START -->
-- [Elevating CSS Mastery: Pseudo-Elements, CSS Sprites, and Display Magic](https://ayushn.hashnode.dev/elevating-css-mastery-pseudo-elements-css-sprites-and-display-magic)
-- [Demystifying CSS Layouts: Flexbox, Grid, and the @import Rule](https://ayushn.hashnode.dev/demystifying-css-layouts-flexbox-grid-and-the-import-rule)
-- [Mastering CSS Magic: Colors, Positioning, Overflow, and Transitions](https://ayushn.hashnode.dev/mastering-css-magic-colors-positioning-overflow-and-transitions)
-- [Unveiling the Power of CSS: Selectors, Float Properties, and Stylish Components](https://ayushn.hashnode.dev/unveiling-the-power-of-css-selectors-float-properties-and-stylish-components)
-- [Mastering CSS: A Comprehensive Guide to Frameworks, Versions, and Resets](https://ayushn.hashnode.dev/mastering-css-a-comprehensive-guide-to-frameworks-versions-and-resets)
-<!-- BLOG-POST-LIST:END -->
-  
-➡️ [more blog posts...](https://ayushn.hashnode.dev/)
-
-<h3 align="left">Subscribe to my Newsletter :</h3>
-<div align="left">
-  <a href="https://ayushn.hashnode.dev/newsletter"target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-</div>
 
 <h3 align="left">Hosting :</h3>
 <div align="left">
