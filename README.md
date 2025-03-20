@@ -40,9 +40,6 @@
 <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-<h3 align="left">📕 Latest Blog Posts :</h3>
-<div>
-
 <h3 align="left">Hosting :</h3>
 <div align="left">
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
